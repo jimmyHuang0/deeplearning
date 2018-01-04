@@ -1,0 +1,31 @@
+*****************************************************************
+*							学习资源							*
+*****************************************************************
+轻松学习：
+	deeplearning TV:
+		http://www.youtube.com/channel/UC9OeZkIwhzfv_Cb7fCikLQ
+	讲义：李宏毅 台湾国立大学 
+		http://speech.ee.ntu.tw/~tlkagk/courses.html
+
+深度学习原理、方法论：
+	Yoshua Bengio:
+		"deep learning" http://www.deeplearningbook.org
+		中文版：http://github.com/exacity/deeplearningbook_chinese
+	"Neural Networks and deep learning"
+		http://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details
+
+编程与实践：
+	deep learning tutorial, lisa lab, university of Montreal
+		http://deeplearing.net/tutorial/deeplearing.pdf
+	<Tensorflow实战> <TensorFlow实战Google深度学习框架>
+
+机器学习理论：
+	<机器学习> 周志华 入门教材
+	<Pattern Recognition and Machine Learning>Bishop
+	<The Elements of Statistical learning>Trevor hastie：统计学教授写的巨著
+
+
+
+
+
+
